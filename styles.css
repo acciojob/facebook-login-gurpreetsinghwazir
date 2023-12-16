@@ -1,9 +1,10 @@
 body{
+	background-color: #f6f6f6;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	height: 100vh;
-	background-color: #f6f6f6;
+	
 }
 .left{
 	width: 450px;
@@ -28,10 +29,24 @@ input{
 }
 #one{
 	background-color: #1877f2;
+	border-radius:5px;
+	padding: 10px 20px;
+	width: auto;
+}
+a{
+	color: #1877f2;
+	text-decoration: none;
 }
 
-.signup{
-		background-color: #42b72a;
+
+
+
+
+.newbutton{
+	background-color: #42b72a;
+	border-radius:5px;
+	padding: 10px 20px;
+	
 }
 
 img{
